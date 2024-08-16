@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vsc\\C#\\C#.csproj": {}
+    "C:\\vsc\\C-_dio\\C#.csproj": {}
   },
   "projects": {
-    "C:\\vsc\\C#\\C#.csproj": {
+    "C:\\vsc\\C-_dio\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vsc\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\vsc\\C-_dio\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\vsc\\C#\\C#.csproj",
+        "projectPath": "C:\\vsc\\C-_dio\\C#.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\vsc\\C#\\obj\\",
+        "outputPath": "C:\\vsc\\C-_dio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
