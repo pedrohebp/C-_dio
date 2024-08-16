@@ -13,6 +13,11 @@ namespace C_.Models
         public void Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos");
+
+            //Console.WriteLine($"Olá, meu nome é " +
+            //$"{Nome}, e tenho {Idade} anos"); 
+            //(MODO DE SE DIVIDIR UMA LINHA DE CÓDIGO MUITO GRANDE);
+            //utilizar \n para quebra de linha REAL;
         }
     }
 }
